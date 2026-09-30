@@ -2,7 +2,7 @@ package ABCintro.dominio;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ContaBancaria{
+public class    ContaBancaria{
     public String titular;
     public double saldo;
     public List<Double> transacoes = new ArrayList<>();
